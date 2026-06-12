@@ -16,13 +16,13 @@ Each algorithm includes:
 
 ## 📁 Project Structure
 
-Search-Optimization-Project/
-│── README.md
-│── MagicSquare_AStar/
-│── TSP_SimulatedAnnealing/
-│── SAT_GeneticAlgorithm/
-│── datasets/
-│── report/
+Search-Optimization-Project/  
+│── README.md  
+│── MagicSquare_AStar/  
+│── TSP_SimulatedAnnealing/  
+│── SAT_GeneticAlgorithm/  
+│── datasets/  
+│── report/  
 
 
 ---
