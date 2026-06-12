@@ -21,8 +21,8 @@ Search-Optimization-Project/
 │── MagicSquare_AStar/  
 │── TSP_SimulatedAnnealing/  
 │── SAT_GeneticAlgorithm/  
-│── datasets/  
-│── report/  
+│── Datasets/  
+│── Report/  
 
 
 ---
