@@ -40,7 +40,6 @@ Dependencies:
 - time  
 - os  
 
-(All allowed by the project requirements.)
 
 ---
 
