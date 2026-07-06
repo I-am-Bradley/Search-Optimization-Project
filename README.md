@@ -3,7 +3,7 @@
 ## 🧭 Project Overview
 
 ### Title:
-Search & Optimization Algorithms
+### Search & Optimization Algorithms
 
 ### Purpose
 
