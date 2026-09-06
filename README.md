@@ -1,9 +1,9 @@
-# Search & Optimization Algorithms
+# AI Search & Optimization Algorithms
 
 ## 🧭 Project Overview
 
 ### Title:
-### Search & Optimization Algorithms
+### AI Search & Optimization Algorithms
 
 ### Purpose
 
